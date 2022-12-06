@@ -6,7 +6,7 @@ Dossier de projet:
 ------------------
 Ce dossier décrit la conception de l'application de contacts.
 
-Celle-ci a été réalisée de manière personnelle pour l'obtention du titre CDA.
+L'application et le dossier de projet ont été réalisés de manière personnelle pour l'obtention du titre CDA.
 
 
 Dossier professionnel: 
