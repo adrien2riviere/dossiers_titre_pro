@@ -1,6 +1,6 @@
 # dossiers_titre_pro
 
-Les dossiers ci-dessous concerne la formation en alternance Concepteur Développeur d'Application.
+Les dossiers ci-dessus concerne la formation en alternance Concepteur Développeur d'Application.
 
 Dossier de projet: 
 ------------------
