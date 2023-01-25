@@ -2,8 +2,8 @@
 
 Les dossiers de ce dépôt GitHub concernent la formation en alternance Concepteur Développeur d'Application.
 
-Dossier de projet: 
-------------------------------
+Dossier de projet d'application: 
+--------------------------------
 Ce dossier décrit la conception et le développement d'une application de gestion des contacts.
 
 Sa rédaction a été nécessaire pour l'obtention du titre CDA.
