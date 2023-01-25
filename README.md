@@ -4,7 +4,7 @@ Les dossiers de ce dépôt GitHub concernent la formation en alternance Concepte
 
 Dossier de projet: 
 ------------------------------
-Ce dossier décrit le développement d'une application de gestion des contacts.
+Ce dossier décrit la conception et le développement d'une application de gestion des contacts.
 
 Sa rédaction a été nécessaire pour l'obtention du titre CDA.
 
